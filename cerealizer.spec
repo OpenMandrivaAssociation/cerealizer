@@ -4,10 +4,10 @@
 
 Name:           %{name}
 Version:        %{version}
-Release:        %mkrel 1
+Release:        %mkrel 2
 License:        GPL
 Url:		http://home.gna.org/oomadness/fr/cerealizer/index.html
-Source:        http://download.gna.org/soya/%{oname}-%{version}.tar.bz2
+Source:		http://download.gna.org/soya/%{oname}-%{version}.tar.bz2
 Group:          Development/Python
 Summary:        Python module that allows to save objects in file
 BuildRequires:  python-devel 
