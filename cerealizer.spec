@@ -11,6 +11,7 @@ Source:		http://download.gna.org/soya/%{oname}-%{version}.tar.bz2
 Group:          Development/Python
 Summary:        Python module that allows to save objects in file
 BuildRequires:  python-devel 
+BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Buildarch:	noarch
 
 %description
