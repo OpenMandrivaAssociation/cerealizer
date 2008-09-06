@@ -1,10 +1,10 @@
 %define name    cerealizer
 %define oname   Cerealizer
-%define version 0.6
+%define version 0.7
 
 Name:           %{name}
 Version:        %{version}
-Release:        %mkrel 3
+Release:        %mkrel 1
 License:        GPL
 Url:		http://home.gna.org/oomadness/fr/cerealizer/index.html
 Source:		http://download.gna.org/soya/%{oname}-%{version}.tar.bz2
