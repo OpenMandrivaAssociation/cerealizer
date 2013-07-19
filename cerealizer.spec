@@ -3,11 +3,11 @@
 %define version 0.7
 
 Name:           %{name}
-Version:        %{version}
-Release:        %mkrel 4
+Version:        0.8.1
+Release:        1
 License:        GPL
 Url:		http://home.gna.org/oomadness/fr/cerealizer/index.html
-Source:		http://download.gna.org/soya/%{oname}-%{version}.tar.bz2
+Source:		http://download.gna.org/soya/Cerealizer-%{version}.tar.bz2
 Group:          Development/Python
 Summary:        Python module that allows to save objects in file
 BuildRequires:  python-devel 
@@ -88,4 +88,5 @@ rm -rf `find -name CVS` `find -name .cvswrappers`
 
 * Tue Jul 11 2006 Lenny Cartier <lenny@mandriva.com> 0.4-1mdv2007.0
 - new
+
 
