@@ -4,7 +4,7 @@
 
 Name:           %{name}
 Version:        0.8.1
-Release:        1
+Release:        2
 License:        GPL
 Url:		http://home.gna.org/oomadness/fr/cerealizer/index.html
 Source:		http://download.gna.org/soya/Cerealizer-%{version}.tar.bz2
