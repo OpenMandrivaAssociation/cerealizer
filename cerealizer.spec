@@ -6,7 +6,7 @@ Name:           %{name}
 Version:        0.8.1
 Release:        2
 License:        GPL
-Url:		http://home.gna.org/oomadness/fr/cerealizer/index.html
+Url:		https://home.gna.org/oomadness/fr/cerealizer/index.html
 Source:		http://download.gna.org/soya/Cerealizer-%{version}.tar.bz2
 Group:          Development/Python
 Summary:        Python module that allows to save objects in file
